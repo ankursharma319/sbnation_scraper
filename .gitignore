@@ -64,3 +64,4 @@ dmypy.json
 *.log
 *.log.[0-9]
 *.log.[0-9][0-9]
+scrapped_data/*
